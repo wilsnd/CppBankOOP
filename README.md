@@ -5,7 +5,6 @@ Simple OOP bank system in C++. It demonstrates some OOP concepts in C++ like inh
 You can read the tutorial here: https://gist.github.com/wilsnd/708f6b99c1a623a47621aa6e0071b383
 
 ## Project Structure
-___
 
 ```angular2html
 bank/
@@ -26,7 +25,7 @@ bank/
 ```
 
 ## Usage 
-___
+
 Make sure you have the `.cmake` file. 
 
 Compiling:
@@ -48,7 +47,7 @@ Run the test:
 ```
 
 ## Learning Outcomes 
-___
+
 This project shows OOP concepts such as:
 - Inheritance 
 - Polymorphism 
