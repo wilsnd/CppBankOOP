@@ -1,0 +1,8 @@
+# ninja log v6
+25	866	7674664060219770	build.ninja	f93559fa060e8eb1
+8	1522	7674664117129249	CMakeFiles/bank_lib.dir/src/Account.cpp.obj	c925bfbc921e9562
+30	1535	7674664117359930	CMakeFiles/bank_lib.dir/src/SavingsAccount.cpp.obj	d0d6208b2709bb53
+60	1801	7674664117653970	CMakeFiles/bank_lib.dir/src/Bank.cpp.obj	3fd2f1afc2185554
+85	1892	7674664117897937	CMakeFiles/bank_app.dir/src/main.cpp.obj	e4ae6fc9c3063b5f
+1802	2200	7674664135060608	libbank_lib.a	55468091523243cc
+2200	2684	7674664139049393	bank_app.exe	b3721a26a1ede9f1
